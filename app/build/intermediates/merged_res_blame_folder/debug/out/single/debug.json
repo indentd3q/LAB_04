@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/xml_backup_rules.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/layout_activity_main.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/layout_fragment_cafe_detail.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/layout/fragment_cafe_detail.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab_week_04.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/layout_fragment_cafe.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/layout/fragment_cafe.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab_week_04.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/color_bottom_nav_color.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab_week_04.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab_week_04.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/layout_app_bar_main.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/layout_fragment_list.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/drawable_favorite_menu.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/drawable/favorite_menu.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/layout_fragment_favorites.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/layout/fragment_favorites.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab_week_04.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/drawable_coffee.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/drawable/coffee.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/menu_activity_main_drawer.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/drawable_coffee_menu.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/drawable/coffee_menu.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab_week_04.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab_week_04.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/navigation_nav_graph.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/layout_content_main.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab_week_04.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.lab_week_04.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/layout_nav_header_main.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/layout_fragment_detail.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/drawable_cafe.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/drawable/cafe.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.lab_week_04.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/drawable_favorite.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/drawable/favorite.xml"
+    },
+    {
+        "merged": "com.example.lab_week_04.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.lab_week_04.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]
