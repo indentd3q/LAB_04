@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.example.lab_04",
+  "applicationId": "com.example.lab_week_04",
   "variantName": "debug",
   "elements": [
     {
@@ -16,6 +16,5 @@
       "outputFile": "app-debug.apk"
     }
   ],
-  "elementType": "File",
-  "minSdkVersionForDexing": 33
+  "elementType": "File"
 }

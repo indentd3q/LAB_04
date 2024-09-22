@@ -38,10 +38,10 @@ com.example.lab_week_04.app-navigation-fragment-2.5.3-36 C:\Users\LENOVO\.gradle
 com.example.lab_week_04.app-transition-1.4.1-37 C:\Users\LENOVO\.gradle\caches\transforms-3\f18c17dc299bb0ae175db2218c57aa75\transformed\transition-1.4.1\res
 com.example.lab_week_04.app-core-ktx-1.9.0-38 C:\Users\LENOVO\.gradle\caches\transforms-3\f40534497e56e61b6341f95715d4b451\transformed\core-ktx-1.9.0\res
 com.example.lab_week_04.app-cardview-1.0.0-39 C:\Users\LENOVO\.gradle\caches\transforms-3\f6258c9338dc0fe367c50f1f943dd550\transformed\cardview-1.0.0\res
-com.example.lab_week_04.app-pngs-40 C:\Users\LENOVO\AndroidStudioProjects\LAB_WEEK_04\app\build\generated\res\pngs\debug
-com.example.lab_week_04.app-resValues-41 C:\Users\LENOVO\AndroidStudioProjects\LAB_WEEK_04\app\build\generated\res\resValues\debug
-com.example.lab_week_04.app-packageDebugResources-42 C:\Users\LENOVO\AndroidStudioProjects\LAB_WEEK_04\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.lab_week_04.app-packageDebugResources-43 C:\Users\LENOVO\AndroidStudioProjects\LAB_WEEK_04\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.lab_week_04.app-merged_res-44 C:\Users\LENOVO\AndroidStudioProjects\LAB_WEEK_04\app\build\intermediates\merged_res\debug
-com.example.lab_week_04.app-debug-45 C:\Users\LENOVO\AndroidStudioProjects\LAB_WEEK_04\app\src\debug\res
-com.example.lab_week_04.app-main-46 C:\Users\LENOVO\AndroidStudioProjects\LAB_WEEK_04\app\src\main\res
+com.example.lab_week_04.app-pngs-40 C:\Users\LENOVO\AndroidStudioProjects\LAB_04\app\build\generated\res\pngs\debug
+com.example.lab_week_04.app-resValues-41 C:\Users\LENOVO\AndroidStudioProjects\LAB_04\app\build\generated\res\resValues\debug
+com.example.lab_week_04.app-packageDebugResources-42 C:\Users\LENOVO\AndroidStudioProjects\LAB_04\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.lab_week_04.app-packageDebugResources-43 C:\Users\LENOVO\AndroidStudioProjects\LAB_04\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.lab_week_04.app-merged_res-44 C:\Users\LENOVO\AndroidStudioProjects\LAB_04\app\build\intermediates\merged_res\debug
+com.example.lab_week_04.app-debug-45 C:\Users\LENOVO\AndroidStudioProjects\LAB_04\app\src\debug\res
+com.example.lab_week_04.app-main-46 C:\Users\LENOVO\AndroidStudioProjects\LAB_04\app\src\main\res
