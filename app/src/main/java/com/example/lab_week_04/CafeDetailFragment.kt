@@ -14,6 +14,7 @@ class CafeDetailFragment : Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        // Retrieve content from arguments
         arguments?.let {
             content = it.getString(TAB_CONTENT)
         }
@@ -29,11 +30,12 @@ class CafeDetailFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        view.findViewById<TextView>(R.id.content_description)
-            ?.text = content
+        // Set the content description text
+        view.findViewById<TextView>(R.id.content_description)?.text = content
     }
 
     companion object {
+        // Factory method to create a new instance of this fragment
         fun newInstance(content: String) =
             CafeDetailFragment().apply {
                 arguments = Bundle().apply {

@@ -7,17 +7,12 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 
-// TODO: Rename parameter arguments, choose names that match
-// the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
 private const val ARG_PARAM1 = "param1"
 private const val ARG_PARAM2 = "param2"
 
-/**
- * A simple [Fragment] subclass.
- * Use the [DetailFragment.newInstance] factory method to
- * create an instance of this fragment.
- */
 class DetailFragment : Fragment() {
+
+    // Using lazy properties for view elements
     private val coffeeTitle: TextView?
         get() = view?.findViewById(R.id.coffee_title)
     private val coffeeDesc: TextView?
@@ -25,6 +20,7 @@ class DetailFragment : Fragment() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        // Fragment-specific logic (if needed) can be added here
     }
 
     override fun onCreateView(
@@ -37,12 +33,14 @@ class DetailFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+        // Retrieving coffeeId from the arguments, defaulting to 0 if null
         val coffeeId = arguments?.getInt(COFFEE_ID, 0) ?: 0
         setCoffeeData(coffeeId)
     }
 
-    fun setCoffeeData(id: Int){
-        when(id){
+    // Sets coffee data based on the ID passed in
+    private fun setCoffeeData(id: Int) {
+        when (id) {
             R.id.affogato -> {
                 coffeeTitle?.text = getString(R.string.affogato_title)
                 coffeeDesc?.text = getString(R.string.affogato_desc)
